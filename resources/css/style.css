@@ -1,6 +1,12 @@
 body {
   background-color: black
-  text-align; center;
-  font-family; Veranda; Tahoma; sans-serif;
+  text-align: center;
+  font-family: Veranda; Tahoma; sans-serif;
+}
 
+header--main {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    
 }
